@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/rc5.png</file>
+        <file>images/encryption.ico</file>
+        <file>images/enc.png</file>
+        <file>images/dec.png</file>
+    </qresource>
+</RCC>
